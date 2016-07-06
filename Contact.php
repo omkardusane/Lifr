@@ -1,3 +1,4 @@
+<?php $selected = 6;include("header.php"); ?>
 
 <!-- content -->
 		<article id="content">
@@ -49,3 +50,5 @@
 			</div>
 		</article>
 <!-- / content -->
+
+<?php include("footer.php"); ?>
